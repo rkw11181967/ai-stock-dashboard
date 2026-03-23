@@ -1,0 +1,6 @@
+streamlit
+yfinance
+feedparser
+pandas
+openai
+streamlit-autorefresh
